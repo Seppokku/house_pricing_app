@@ -9,8 +9,7 @@ https://house-pricing-kaggle-app.streamlit.app/
 Александр Голованов
 Любовь Бондаренко
 
-- Type some Markdown on the
-- See HTML in the right
+
 - ✨Mагия чисел  и немного интеллекта
 
 
